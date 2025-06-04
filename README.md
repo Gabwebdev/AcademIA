@@ -1,2 +1,16 @@
 # AcademIA
 Projeto integrador 2025 - UNINOVE
+
+➢ NOME: GABRIEL VINICIUS DE ASSIS ROCHA-----------------RA: 2223109055
+
+➢ NOME: MATHEUS BARBOSA MACHADO-------------------------RA: 2223104167
+
+➢ NOME: VANESSA FERREIRA DOS SANTOS---------------------RA: 2223101364
+
+➢ NOME: GISELI NASCIMENTO SANTOS------------------------RA: 2225103969
+
+➢ NOME: BEATRIZ GONÇALVES NASCIMENTO--------------------RA: 2223103399
+
+➢ NOME: JOÃO VICTOR MATIAS NASCIMENTO-------------------RA: 2223102414
+
+Professor: Felipe Santos de Jesus
