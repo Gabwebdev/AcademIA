@@ -1,0 +1,401 @@
+sexo,idade,peso,altura,treino,meta
+H,19,116.3,1.69,força,força
+H,32,89.9,1.87,hipertrofia,hipertrofia
+H,61,56.7,1.58,resistência,resistência
+H,55,110.0,1.53,resistência,melhorar postura
+H,23,98.1,1.8,hipertrofia,secar gordura
+H,50,117.7,1.51,resistência,saúde geral
+H,63,60.9,1.92,resistência,resistência
+M,32,58.8,1.59,hipertrofia,mobilidade
+M,69,84.4,1.65,hipertrofia,ganhar massa muscular
+H,62,66.8,1.72,força,melhorar postura
+M,27,55.5,1.81,hipertrofia,secar gordura
+M,24,72.5,1.65,hipertrofia,emagrecimento
+M,24,103.9,1.73,força,condicionamento
+M,69,83.6,1.6,hipertrofia,ganhar massa muscular
+M,52,48.5,1.8,hipertrofia,emagrecimento
+M,23,57.8,1.8,resistência,resistência
+M,71,116.2,1.53,força,saúde geral
+H,63,105.6,1.98,hipertrofia,emagrecimento
+H,60,52.3,1.65,hipertrofia,secar gordura
+M,23,78.0,1.84,hipertrofia,secar gordura
+H,42,82.1,1.56,força,força
+M,58,113.2,1.52,resistência,condicionamento
+M,40,94.7,1.63,hipertrofia,secar gordura
+M,62,84.0,1.66,emagrecimento,emagrecimento
+H,52,58.9,1.77,hipertrofia,secar gordura
+H,47,103.1,1.98,força,melhorar postura
+H,61,112.1,1.97,resistência,condicionamento
+H,70,114.1,1.8,hipertrofia,ganhar massa muscular
+M,43,59.7,1.54,força,força
+H,31,69.4,1.52,hipertrofia,saúde geral
+M,31,65.4,1.69,força,mobilidade
+M,27,71.8,1.91,força,força
+H,33,85.7,1.64,resistência,resistência
+M,65,105.2,1.57,força,saúde geral
+M,41,119.0,1.54,hipertrofia,secar gordura
+H,50,59.9,1.89,resistência,mobilidade
+H,73,106.2,1.5,emagrecimento,emagrecimento
+H,58,99.7,1.85,hipertrofia,hipertrofia
+M,56,50.6,1.89,hipertrofia,emagrecimento
+M,42,53.7,1.68,força,saúde geral
+M,53,91.7,1.93,hipertrofia,ganhar massa muscular
+H,61,49.8,1.67,resistência,resistência
+M,67,69.4,1.66,resistência,condicionamento
+M,45,92.8,1.86,hipertrofia,hipertrofia
+M,18,80.4,1.94,força,força
+H,50,98.5,1.56,emagrecimento,emagrecimento
+M,71,87.1,1.88,resistência,resistência
+H,27,82.0,1.89,resistência,condicionamento
+H,56,77.1,1.76,força,condicionamento
+H,25,53.1,1.51,força,condicionamento
+H,21,92.7,1.52,hipertrofia,secar gordura
+H,23,83.1,1.66,resistência,mobilidade
+H,26,63.7,1.95,hipertrofia,mobilidade
+H,34,101.7,1.71,resistência,resistência
+M,31,50.8,1.61,resistência,resistência
+H,63,57.1,1.64,força,força
+M,60,105.6,1.96,força,condicionamento
+M,25,110.4,1.82,hipertrofia,secar gordura
+H,22,59.0,1.9,resistência,condicionamento
+H,55,85.5,1.95,hipertrofia,secar gordura
+H,22,112.2,1.9,hipertrofia,ganhar massa muscular
+H,22,53.3,1.66,hipertrofia,ganhar massa muscular
+M,22,77.0,1.61,resistência,resistência
+H,35,109.6,1.91,resistência,mobilidade
+H,64,83.3,1.5,hipertrofia,saúde geral
+M,33,61.7,1.71,força,mobilidade
+H,24,70.3,1.56,hipertrofia,emagrecimento
+M,40,69.2,1.97,força,melhorar postura
+M,73,97.7,1.76,hipertrofia,ganhar massa muscular
+H,21,117.9,1.68,hipertrofia,melhorar postura
+M,69,63.9,1.98,hipertrofia,emagrecimento
+H,30,67.6,1.75,hipertrofia,secar gordura
+M,26,47.8,1.64,resistência,melhorar postura
+M,47,82.7,1.8,hipertrofia,secar gordura
+H,46,65.9,1.53,resistência,resistência
+H,21,63.0,1.95,resistência,resistência
+H,23,81.7,1.57,hipertrofia,secar gordura
+H,44,63.2,1.99,força,mobilidade
+H,73,102.1,1.84,resistência,melhorar postura
+H,42,99.6,1.62,hipertrofia,ganhar massa muscular
+M,34,92.4,1.68,força,mobilidade
+M,62,85.2,1.82,resistência,resistência
+M,27,107.6,1.55,hipertrofia,secar gordura
+M,31,59.0,1.66,hipertrofia,ganhar massa muscular
+H,65,89.3,1.52,resistência,condicionamento
+H,55,46.2,1.84,hipertrofia,mobilidade
+H,21,62.0,1.76,resistência,resistência
+H,72,58.1,1.82,hipertrofia,hipertrofia
+H,56,74.0,1.85,hipertrofia,emagrecimento
+H,43,55.3,1.97,hipertrofia,emagrecimento
+H,55,53.5,1.67,resistência,saúde geral
+H,44,110.8,1.96,hipertrofia,saúde geral
+M,34,94.5,1.63,hipertrofia,secar gordura
+M,33,86.6,1.91,força,força
+M,26,63.1,1.76,força,força
+M,38,112.3,1.55,emagrecimento,emagrecimento
+H,47,92.5,1.95,hipertrofia,saúde geral
+H,22,71.2,1.67,resistência,resistência
+H,50,112.3,1.86,força,força
+H,40,103.5,1.94,hipertrofia,emagrecimento
+H,41,51.3,1.82,força,força
+H,46,112.4,1.58,resistência,resistência
+M,57,45.7,1.8,resistência,resistência
+H,60,94.8,1.55,resistência,resistência
+M,60,57.1,1.5,hipertrofia,emagrecimento
+H,34,96.9,1.77,emagrecimento,emagrecimento
+H,65,61.8,1.83,resistência,resistência
+H,35,62.8,1.86,força,força
+H,63,101.0,1.66,resistência,condicionamento
+M,50,108.7,1.82,força,mobilidade
+H,23,87.6,1.83,força,melhorar postura
+H,18,72.6,1.55,resistência,condicionamento
+M,28,63.3,1.63,hipertrofia,mobilidade
+M,53,74.5,1.99,hipertrofia,ganhar massa muscular
+H,22,92.3,1.95,hipertrofia,hipertrofia
+H,71,82.7,1.9,hipertrofia,condicionamento
+H,45,81.9,1.79,hipertrofia,hipertrofia
+H,37,99.2,1.6,resistência,condicionamento
+M,31,46.8,1.64,hipertrofia,secar gordura
+H,40,58.3,1.82,resistência,resistência
+M,57,116.5,1.97,hipertrofia,hipertrofia
+H,73,72.8,1.96,hipertrofia,hipertrofia
+H,74,114.6,1.51,resistência,melhorar postura
+H,65,117.5,1.71,força,condicionamento
+H,35,109.0,1.98,hipertrofia,hipertrofia
+H,42,73.9,1.65,hipertrofia,ganhar massa muscular
+M,32,68.8,1.93,hipertrofia,secar gordura
+M,40,86.8,1.58,força,força
+H,32,97.2,1.97,hipertrofia,ganhar massa muscular
+H,43,52.3,1.79,força,condicionamento
+H,67,119.3,1.81,força,força
+M,59,83.9,1.57,resistência,resistência
+M,61,100.6,1.94,resistência,resistência
+M,19,97.7,1.85,hipertrofia,emagrecimento
+M,29,67.0,1.68,força,saúde geral
+H,24,105.8,1.9,força,saúde geral
+M,64,113.5,1.93,força,condicionamento
+H,42,82.6,1.76,resistência,saúde geral
+M,20,93.7,1.9,resistência,melhorar postura
+H,41,104.7,1.85,resistência,melhorar postura
+M,57,70.3,1.95,hipertrofia,condicionamento
+H,64,52.0,1.69,força,força
+M,60,47.7,1.79,força,melhorar postura
+M,62,85.7,1.73,força,força
+H,30,89.3,1.64,hipertrofia,melhorar postura
+M,61,47.8,1.52,hipertrofia,hipertrofia
+M,43,72.0,1.91,resistência,resistência
+H,37,84.2,1.56,força,força
+H,45,61.2,1.88,hipertrofia,saúde geral
+M,47,51.4,1.81,força,mobilidade
+H,50,84.9,1.53,hipertrofia,mobilidade
+H,60,92.8,1.77,hipertrofia,emagrecimento
+M,50,118.2,1.86,força,saúde geral
+H,70,69.2,1.76,hipertrofia,secar gordura
+M,32,65.3,1.9,hipertrofia,secar gordura
+H,19,50.9,1.72,hipertrofia,ganhar massa muscular
+H,48,117.2,1.51,resistência,saúde geral
+M,44,97.2,1.92,resistência,saúde geral
+M,49,58.0,1.7,resistência,melhorar postura
+H,59,63.8,1.58,hipertrofia,ganhar massa muscular
+H,67,98.6,1.77,resistência,melhorar postura
+H,69,66.0,1.83,resistência,resistência
+M,21,100.3,1.98,resistência,resistência
+H,72,90.9,1.78,hipertrofia,emagrecimento
+M,26,63.6,1.71,hipertrofia,mobilidade
+M,66,101.8,1.68,hipertrofia,mobilidade
+M,71,53.7,1.51,resistência,resistência
+M,75,48.1,1.52,hipertrofia,hipertrofia
+M,46,97.8,1.93,força,força
+H,71,52.3,1.74,força,força
+M,58,80.5,1.75,hipertrofia,secar gordura
+M,46,77.5,1.59,emagrecimento,emagrecimento
+M,33,91.2,1.7,força,força
+M,38,48.4,1.82,resistência,resistência
+H,26,91.9,1.69,hipertrofia,hipertrofia
+H,42,109.2,1.75,hipertrofia,hipertrofia
+H,22,57.2,1.83,força,melhorar postura
+M,52,93.2,1.54,força,mobilidade
+H,31,88.9,1.51,força,melhorar postura
+H,72,88.2,1.97,força,saúde geral
+M,18,93.2,1.69,força,condicionamento
+M,72,85.9,1.73,hipertrofia,melhorar postura
+H,49,74.0,1.97,hipertrofia,secar gordura
+M,45,112.9,1.98,resistência,mobilidade
+M,39,50.2,1.6,hipertrofia,melhorar postura
+H,71,46.4,1.55,resistência,mobilidade
+H,43,96.2,1.55,hipertrofia,saúde geral
+H,23,68.9,1.54,resistência,melhorar postura
+M,29,46.7,1.92,hipertrofia,ganhar massa muscular
+M,42,66.1,1.91,resistência,condicionamento
+M,38,97.3,1.56,força,condicionamento
+M,66,110.8,1.81,força,melhorar postura
+H,48,105.3,1.87,hipertrofia,ganhar massa muscular
+H,40,58.3,1.64,hipertrofia,secar gordura
+H,67,105.5,1.88,hipertrofia,ganhar massa muscular
+H,33,75.9,2.0,hipertrofia,secar gordura
+H,57,103.2,1.69,hipertrofia,hipertrofia
+H,26,114.8,1.67,hipertrofia,mobilidade
+H,54,77.2,1.93,hipertrofia,secar gordura
+M,62,101.6,1.88,força,força
+M,28,112.7,1.55,hipertrofia,saúde geral
+H,67,107.0,1.75,hipertrofia,hipertrofia
+M,24,112.2,1.66,resistência,saúde geral
+M,54,45.8,1.69,força,melhorar postura
+H,22,51.8,1.95,hipertrofia,saúde geral
+H,24,116.3,1.66,força,força
+H,68,88.0,1.98,resistência,saúde geral
+M,52,78.6,1.82,hipertrofia,melhorar postura
+M,22,69.6,1.65,resistência,resistência
+M,18,101.4,1.84,força,melhorar postura
+H,45,104.2,1.9,hipertrofia,condicionamento
+M,63,82.1,1.55,hipertrofia,hipertrofia
+M,29,86.2,1.53,resistência,resistência
+M,57,111.6,1.72,resistência,resistência
+M,47,53.8,1.68,hipertrofia,melhorar postura
+M,38,102.1,1.57,hipertrofia,secar gordura
+H,35,52.6,1.81,resistência,mobilidade
+M,54,97.6,1.54,hipertrofia,saúde geral
+M,39,106.6,1.54,hipertrofia,ganhar massa muscular
+M,72,51.1,1.85,resistência,condicionamento
+M,31,119.0,1.54,força,condicionamento
+M,35,72.8,1.69,hipertrofia,saúde geral
+M,53,116.0,1.91,hipertrofia,ganhar massa muscular
+H,23,101.5,1.99,hipertrofia,secar gordura
+M,49,51.3,1.69,resistência,resistência
+H,62,86.9,1.89,hipertrofia,mobilidade
+M,46,113.0,1.71,hipertrofia,ganhar massa muscular
+H,36,81.9,1.56,hipertrofia,secar gordura
+M,62,80.1,1.51,hipertrofia,secar gordura
+M,60,53.9,1.53,força,saúde geral
+M,53,93.7,1.56,resistência,resistência
+M,45,88.8,1.87,resistência,resistência
+M,40,73.1,1.98,força,mobilidade
+M,34,110.1,1.64,hipertrofia,secar gordura
+H,64,117.2,1.61,hipertrofia,secar gordura
+M,25,117.7,1.51,resistência,resistência
+H,30,111.8,1.52,hipertrofia,secar gordura
+M,35,119.5,1.76,hipertrofia,saúde geral
+M,24,86.5,1.54,hipertrofia,secar gordura
+M,32,84.2,1.98,resistência,condicionamento
+M,18,97.2,1.81,resistência,resistência
+H,35,92.1,1.73,hipertrofia,ganhar massa muscular
+H,53,112.6,1.79,força,força
+H,58,66.1,1.52,resistência,mobilidade
+H,54,111.8,1.98,força,força
+M,48,91.5,1.73,força,mobilidade
+H,21,59.1,1.64,força,força
+M,25,71.5,1.73,hipertrofia,emagrecimento
+M,49,50.8,1.79,hipertrofia,emagrecimento
+H,27,119.0,1.99,hipertrofia,hipertrofia
+M,23,85.2,1.85,hipertrofia,secar gordura
+H,53,106.0,1.65,hipertrofia,melhorar postura
+H,67,57.2,1.84,resistência,resistência
+M,46,106.7,1.96,força,mobilidade
+M,37,99.4,1.97,hipertrofia,saúde geral
+H,57,76.4,1.81,hipertrofia,emagrecimento
+H,58,110.0,1.97,hipertrofia,secar gordura
+M,60,47.0,1.52,hipertrofia,emagrecimento
+H,33,105.8,1.69,hipertrofia,hipertrofia
+H,28,56.3,1.99,hipertrofia,ganhar massa muscular
+M,46,73.6,1.8,força,saúde geral
+M,20,108.2,1.98,hipertrofia,secar gordura
+M,63,80.2,1.92,força,força
+M,22,65.5,1.71,hipertrofia,secar gordura
+M,68,109.9,1.53,hipertrofia,saúde geral
+H,45,120.0,1.91,emagrecimento,emagrecimento
+H,59,86.7,2.0,hipertrofia,hipertrofia
+M,70,115.9,1.88,hipertrofia,hipertrofia
+H,21,63.6,1.92,hipertrofia,hipertrofia
+M,56,54.7,1.73,força,saúde geral
+M,25,90.5,1.98,hipertrofia,mobilidade
+M,62,95.4,1.61,força,melhorar postura
+M,46,71.9,1.81,hipertrofia,emagrecimento
+H,74,95.4,1.56,hipertrofia,melhorar postura
+M,56,102.9,1.76,força,força
+H,23,108.9,1.76,hipertrofia,secar gordura
+H,66,87.1,1.78,força,força
+H,66,75.3,1.94,hipertrofia,hipertrofia
+M,51,47.2,1.57,força,mobilidade
+H,55,91.5,1.88,hipertrofia,melhorar postura
+M,23,61.0,1.85,força,mobilidade
+M,39,46.1,1.57,hipertrofia,condicionamento
+H,72,89.2,1.68,hipertrofia,hipertrofia
+M,44,77.8,1.7,força,mobilidade
+M,70,71.1,1.95,resistência,resistência
+H,47,103.8,1.76,emagrecimento,emagrecimento
+M,34,91.7,1.7,resistência,condicionamento
+M,73,116.2,1.93,resistência,resistência
+H,60,114.5,1.57,resistência,resistência
+M,44,64.4,1.75,hipertrofia,ganhar massa muscular
+H,51,118.5,1.73,hipertrofia,condicionamento
+M,58,69.7,1.75,resistência,mobilidade
+H,35,63.0,1.82,resistência,resistência
+H,36,54.7,1.54,hipertrofia,mobilidade
+M,25,56.4,1.56,hipertrofia,ganhar massa muscular
+H,63,93.1,1.57,hipertrofia,hipertrofia
+M,53,70.9,1.59,hipertrofia,ganhar massa muscular
+M,23,80.5,1.95,hipertrofia,secar gordura
+H,47,57.9,1.83,hipertrofia,emagrecimento
+H,49,48.1,1.6,força,força
+M,44,65.9,1.58,força,mobilidade
+H,47,51.7,1.59,resistência,resistência
+H,42,79.6,1.56,hipertrofia,secar gordura
+H,73,72.3,1.6,hipertrofia,emagrecimento
+M,67,96.8,1.75,força,melhorar postura
+M,70,105.0,1.52,hipertrofia,ganhar massa muscular
+M,64,51.1,1.81,força,força
+M,73,114.1,1.94,hipertrofia,hipertrofia
+M,52,65.8,1.53,força,mobilidade
+M,53,101.1,1.9,resistência,resistência
+M,47,60.7,1.59,resistência,condicionamento
+H,54,81.3,1.69,resistência,melhorar postura
+M,20,72.7,1.81,hipertrofia,condicionamento
+M,63,101.1,1.73,força,melhorar postura
+H,49,63.9,1.52,hipertrofia,ganhar massa muscular
+H,50,112.1,1.86,força,saúde geral
+H,73,84.9,1.76,resistência,mobilidade
+M,18,78.6,1.55,hipertrofia,hipertrofia
+M,73,63.2,1.77,hipertrofia,hipertrofia
+H,48,73.3,1.63,força,força
+M,57,69.2,1.51,hipertrofia,melhorar postura
+H,72,69.6,1.61,hipertrofia,condicionamento
+M,38,111.8,1.56,hipertrofia,mobilidade
+H,57,95.9,1.8,hipertrofia,emagrecimento
+H,58,82.4,1.89,força,força
+H,65,85.3,1.54,emagrecimento,emagrecimento
+M,24,100.9,1.79,emagrecimento,emagrecimento
+M,28,54.6,1.72,força,força
+H,20,72.2,1.64,resistência,condicionamento
+M,40,87.8,1.82,força,condicionamento
+H,33,119.0,1.68,resistência,resistência
+M,54,62.8,1.8,hipertrofia,hipertrofia
+H,29,56.5,1.55,hipertrofia,emagrecimento
+M,57,57.1,1.62,hipertrofia,secar gordura
+M,55,66.4,1.59,hipertrofia,hipertrofia
+H,47,112.3,1.59,força,força
+M,34,84.3,1.54,hipertrofia,ganhar massa muscular
+M,75,118.7,1.71,força,força
+H,22,74.8,1.56,força,mobilidade
+M,58,109.9,1.98,hipertrofia,melhorar postura
+M,47,64.3,1.91,força,força
+H,42,95.1,1.59,resistência,mobilidade
+H,42,86.8,1.96,força,saúde geral
+M,62,66.0,1.79,força,força
+H,71,59.0,1.88,força,melhorar postura
+H,54,76.9,1.66,hipertrofia,ganhar massa muscular
+M,71,63.2,1.75,força,força
+H,56,90.8,1.56,resistência,condicionamento
+H,57,88.6,1.64,força,força
+H,58,81.1,1.58,emagrecimento,emagrecimento
+H,37,48.9,1.77,resistência,mobilidade
+M,64,55.1,1.67,hipertrofia,hipertrofia
+H,36,119.2,1.53,hipertrofia,condicionamento
+M,29,105.7,1.66,hipertrofia,secar gordura
+H,68,96.1,1.63,resistência,resistência
+M,51,89.7,1.88,resistência,resistência
+M,71,75.9,1.74,hipertrofia,hipertrofia
+M,70,114.7,1.67,força,mobilidade
+M,69,117.4,1.92,emagrecimento,emagrecimento
+M,22,99.8,1.56,hipertrofia,hipertrofia
+H,73,58.6,1.97,hipertrofia,melhorar postura
+M,23,100.6,1.53,resistência,melhorar postura
+M,52,108.1,1.79,emagrecimento,emagrecimento
+M,41,104.6,1.57,força,força
+M,70,57.3,1.6,resistência,condicionamento
+H,48,106.1,1.58,hipertrofia,ganhar massa muscular
+M,57,84.2,1.83,hipertrofia,secar gordura
+H,58,110.8,1.68,hipertrofia,mobilidade
+M,59,106.2,1.7,resistência,melhorar postura
+H,20,73.3,1.72,hipertrofia,ganhar massa muscular
+M,49,67.6,1.73,hipertrofia,emagrecimento
+H,33,82.7,1.87,resistência,resistência
+H,42,112.5,1.62,força,mobilidade
+M,55,85.8,1.69,hipertrofia,hipertrofia
+M,59,91.8,1.95,hipertrofia,emagrecimento
+M,57,115.5,1.56,força,melhorar postura
+H,62,70.1,1.81,resistência,condicionamento
+M,46,104.6,1.57,hipertrofia,secar gordura
+M,24,85.0,1.81,hipertrofia,condicionamento
+M,21,104.1,1.95,força,melhorar postura
+H,25,68.4,1.58,resistência,mobilidade
+H,59,100.8,1.62,resistência,saúde geral
+H,68,87.7,1.52,resistência,condicionamento
+H,68,110.8,1.88,resistência,saúde geral
+H,71,106.6,1.67,resistência,resistência
+H,55,108.5,1.56,hipertrofia,secar gordura
+H,39,74.8,1.56,hipertrofia,hipertrofia
+H,35,56.2,1.9,hipertrofia,hipertrofia
+H,52,99.2,1.61,força,força
+H,25,93.1,1.86,hipertrofia,ganhar massa muscular
+H,18,85.7,1.85,resistência,condicionamento
+M,19,70.9,1.63,hipertrofia,hipertrofia
+M,21,113.1,1.59,hipertrofia,hipertrofia
+M,51,75.1,1.79,hipertrofia,emagrecimento
+H,48,116.0,1.73,força,mobilidade
+H,46,89.0,1.58,resistência,resistência
+H,57,90.9,1.75,hipertrofia,ganhar massa muscular
+M,47,110.4,1.51,hipertrofia,ganhar massa muscular
+H,48,87.4,1.97,força,melhorar postura
+H,49,114.2,1.85,resistência,mobilidade

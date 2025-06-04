@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>IA Treino Personalizado</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+  <h1 id="titulo">
+    ACADEM<span class="highlight_I">I</span><span class="highlight_A">A</span>
+  </h1>
+
+
+  <h1 id="treinoText">🏋️ Treino Personalizado com IA</h1>
+  <form method="POST">
+    <label>Nome:</label>
+    <input type="text" name="nome" required autocomplete="off">
+
+    <label>Sexo biológico:</label>
+    <select name="sexo" required>
+      <option value="H">Homem</option>
+      <option value="M">Mulher</option>
+    </select>
+
+    <label>Idade:</label>
+    <input type="number" name="idade" required autocomplete="off">
+
+    <label>Peso (kg):</label>
+    <input type="number" step="any" name="peso" required autocomplete="off">
+
+    <label>Altura (m):</label>
+    <input type="number" name="altura" min="1.00" max="2.50" step="0.01" required autocomplete="off">
+
+    <label for="meta">Meta:</label>
+    <select name="meta" id="meta" required>
+      <option value="ganhar massa muscular">Ganhar Massa Muscular</option>
+      <option value="emagrecimento">Emagrecimento</option>
+      <option value="hipertrofia">Hipertrofia</option>
+      <option value="secar gordura">Secar Gordura</option>
+      <option value="força">Força</option>
+      <option value="condicionamento">Condicionamento</option>
+      <option value="melhorar postura">Melhorar Postura</option>
+      <option value="mobilidade">Mobilidade</option>
+      <option value="resistência">Resistência</option>
+      <option value="saúde geral">Saúde Geral</option>
+    </select>
+
+    <label>Quantos exercícios você pode treinar em um dia?:</label>
+    <input type="number" name="quantidade" min="1" max="8" required autocomplete="off">
+
+    <p>Selecione os grupos musculares que deseja treinar:</p>
+    <input type="checkbox" name="opcoes" value="perna" class="opcaoInput"> Perna<br>
+    <input type="checkbox" name="opcoes" value="gluteo"class="opcaoInput"> Gluteo<br>
+    <input type="checkbox" name="opcoes" value="peito"class="opcaoInput"> Peito<br>
+    <input type="checkbox" name="opcoes" value="costa"class="opcaoInput"> Costa<br>
+    <input type="checkbox" name="opcoes" value="ombro"class="opcaoInput"> Ombro<br>
+    <input type="checkbox" name="opcoes" value="biceps"class="opcaoInput"> Biceps<br>
+    <input type="checkbox" name="opcoes" value="triceps"class="opcaoInput"> Triceps<br>
+    <input type="checkbox" name="opcoes" value="abdomen"class="opcaoInput"> Abdomen<br>
+    <input type="checkbox" name="opcoes" value="cardio"class="opcaoInput"> Cardio<br>
+
+
+
+
+
+
+
+    <button type="submit">Prever Treino</button>
+  </form>
+
+  {% if resultado %}
+  <div class="resultado">{{ resultado }}</div>
+  {% endif %}
+
+  {% if tabela_exercicios %}
+  <div class="tabelaDiv">
+    <h3>Treino Sugerido</h3>
+    {{ tabela_exercicios | safe }}
+    </div>
+{% endif %}
+
+
+  {% if treino == "hipertrofia" %}
+  <div class="dicasDivPai">
+    <button class="menu-btn" onclick="toggleMenu('hipertrofia')">DICAS PARA HIPERTROFIA</button>
+    <div class="dicasDiv" id="dicasDiv">
+      <h2>💪 DICAS PARA TREINO DE HIPERTROFIA</h2>
+      <ul>
+        <li>📈 Aposte na sobrecarga progressiva – Aumente o peso aos poucos para estimular crescimento muscular.</li>
+        <br>
+        <li>🔥 Treine até a falha muscular – Finalizar cada série com esforço máximo maximiza os ganhos.</li><br>
+        <li>🕰️ Dê atenção ao tempo sob tensão – Movimentos controlados ativam melhor as fibras musculares.</li><br>
+        <li>🥩 Consuma proteína suficiente – 1.6g a 2.2g por kg de peso corporal ajuda na recuperação e crescimento.
+        </li><br>
+        <li>🌙 Durma pelo menos 7-8h por noite – O músculo se recupera e cresce enquanto você descansa.</li><br>
+        <li>📑 Evite treinar sem um bom plano – Alternar entre músculos e usar estratégias como drop sets ajuda na
+          evolução.</li><br>
+      </ul>
+    </div>
+  </div>
+  {% endif %}
+
+  {% if treino == "emagrecimento" %}
+  <div class="dicasDivPai">
+    <button class="menu-btn" onclick="toggleMenu('emagrecimento')">DICAS PARA EMAGRECIMENTO</button>
+    <div class="dicasDiv" id="dicasDiv">
+      <h2>🏃 DICAS PARA TREINO DE EMAGRECIMENTO</h2>
+      <ul>
+        <li>🔥 Priorize o treino intervalado (HIIT) – Alternar intensidade alta e baixa acelera a queima calórica.</li>
+        <br>
+        <li>🏋️‍♂️ Não dependa só do cardio – Musculação também ajuda a emagrecer ao aumentar o gasto energético basal.
+        </li><br>
+        <li>🚫 Evite dietas extremamente restritivas – Comer pouco demais pode reduzir o metabolismo e prejudicar seu
+          progresso.</li><br>
+        <li>🥗 Foque na qualidade dos alimentos – Prefira proteínas magras, vegetais e carboidratos complexos.</li><br>
+        <li>📅 Treine pelo menos 3x na semana – Frequência consistente é chave para resultados duradouros.</li><br>
+        <li>💧 Beba água o tempo todo – Manter-se hidratado melhora o desempenho e acelera o metabolismo.</li><br>
+      </ul>
+    </div>
+  </div>
+  {% endif %}
+
+  {% if treino == "resistência" %}
+  <div class="dicasDivPai">
+    <button class="menu-btn" onclick="toggleMenu('resistência')">DICAS PARA RESISTÊNCIA</button>
+    <div class="dicasDiv" id="dicasDiv">
+      <h2>🔥 DICAS PARA TREINO DE RESISTÊNCIA</h2>
+      <ul>
+        <li>⬆️ Aumente gradativamente o volume de treino – Foque em repetições mais altas e menores tempos de descanso.
+        </li><br>
+        <li>🏋️ Treine com cargas moderadas – Peso leve a médio, mas com alta repetição, melhora a resistência muscular.
+        </li><br>
+        <li>⚡ Inclua exercícios compostos – Movimentos como agachamento e levantamento terra fortalecem músculos
+          estabilizadores.</li><br>
+        <li>🍌 Cuide da alimentação pré-treino – Carboidratos saudáveis garantem energia sustentada.</li><br>
+        <li>🚴 Trabalhe seu condicionamento cardiovascular – Corrida, ciclismo e natação complementam o treino de
+          resistência.</li><br>
+        <li>😴 Evite fadiga desnecessária – Se sentir cansaço excessivo, ajuste intensidade e descanso entre sessões.
+        </li><br>
+      </ul>
+    </div>
+  </div>
+  {% endif %}
+
+  {% if treino == "força" %}
+  <div class="dicasDivPai">
+    <button class="menu-btn" onclick="toggleMenu('força')">DICAS PARA FORÇA</button>
+    <div class="dicasDiv" id="dicasDiv">
+      <h2>🏋️ DICAS PARA TREINO DE FORÇA</h2>
+      <ul>
+        <li>🏋️‍♂️ Foque em cargas pesadas – Treine com 80-90% da sua carga máxima para melhorar força absoluta.</li>
+        <br>
+        <li>💯 Priorize os básicos – Exercícios como agachamento, levantamento terra, supino e barra fixa são
+          essenciais.</li><br>
+        <li>⏳ Descanso entre séries é maior – 2 a 4 minutos garantem recuperação muscular para levantar mais peso.</li>
+        <br>
+        <li>⚡ Explosão no movimento – Mantenha a fase concêntrica (subida do peso) rápida para maior ativação de força.
+        </li><br>
+        <li>🧘 Não pule o treino de mobilidade – Movimentos como alongamento dinâmico ajudam a evitar lesões.</li><br>
+        <li>📅 Treine menos vezes na semana – 3x a 4x são suficientes para evitar sobrecarga e maximizar progressos.
+        </li><br>
+      </ul>
+    </div>
+  </div>
+  {% endif %}
+
+
+
+  <script>
+    function toggleMenu() {
+      var menu = document.getElementById("dicasDiv");
+      if (menu.style.display === "block") {
+        menu.style.display = "none";
+      } else {
+        menu.style.display = "block";
+      }
+    }
+  </script>
+
+</body>
+
+</html>
